@@ -4,17 +4,167 @@ title: Calendar
 uid: 3b701404-2733-8781-c299-aee3cf64a26e
 ---
 
-| Week # | Topics | Key Dates |
-| --- | --- | --- |
-| 1 | What is Exercise? |  |
-| 2 | The Physical Intelligence Model | Assignment 2 handed out |
-| 3 | Visual and Kinesthetic Perception | Assignment 3 handed out |
-| 4 | Physical Thinking | Assignment 4 handed out |
-| 5 | Orientation Strategies: Balancing | Assignment 5 handed out |
-| 6 | Learning Movement | Assignment 6 handed out |
-| 7 | Designing Physical Intelligence | Assignment 7 handed out |
-| 8 | E-motion | Assignment 8 handed out |
-| 9 | Applying Physical Intelligence | Assignment 9 handed out |
-| 10 | Complex Coordination: Walking  {{< br >}}  {{< br >}}Guest Speaker: Dr. Rob Playter, '90, Boston Dynamics Inc. "Physical Intelligence and the Design of Running Robots" | Assignment 10 handed out |
-| 11 | Final Project and Peer Poster Review |  |
-| 12 | Overview and Summary |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Week #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key Dates
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+What is Exercise?
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Physical Intelligence Model
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Visual and Kinesthetic Perception
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Physical Thinking
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Orientation Strategies: Balancing
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Learning Movement
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Designing Physical Intelligence
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 7 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+E-motion
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 8 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Applying Physical Intelligence
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 9 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Complex Coordination: Walking  
+  
+Guest Speaker: Dr. Rob Playter, '90, Boston Dynamics Inc. "Physical Intelligence and the Design of Running Robots"
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 10 handed out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project and Peer Poster Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Overview and Summary
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
